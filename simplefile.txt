@@ -1,5 +1,5 @@
-01 line Every (change of line 1)
+01 line Every (change of line in 1)
 02 line Good
-03 line Boy (change of line 3)
+03 line Boy (change of line in 3)
 04 line Deserves
 05 line Favor
